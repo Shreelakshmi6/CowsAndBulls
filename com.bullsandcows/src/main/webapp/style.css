@@ -1,0 +1,24 @@
+html, body{
+	margin-top:0%;
+}
+.nav-item{
+	padding-right: 30px;
+}
+.bg {
+  /* The image used */
+  background-image: url("images/cows.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+nav{
+  background-color: #e3f2fd;
+}
+.container-top{
+	margin-top: 0%;
+}
